@@ -131,20 +131,15 @@ laxveer:
 
 <div align="center">
 
-<table border="0">
-<tr>
-<td width="50%" align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=LS-Rathore&show_icons=true&theme=tokyonight&hide_border=true&title_color=8B5CF6&icon_color=EC4899&text_color=94A3B8&bg_color=0D1117" alt="LS-Rathore's GitHub Stats" />
-</td>
-<td width="50%" align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LS-Rathore&layout=compact&theme=tokyonight&hide_border=true&title_color=8B5CF6&text_color=94A3B8&bg_color=0D1117&langs_count=8" alt="Top Languages" />
-</td>
-</tr>
-</table>
+<p align="center">
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=LS-Rathore&show_icons=true&theme=tokyonight&hide_border=true" alt="LS-Rathore's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LS-Rathore&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
 <br/>
 
-<img width="100%" src="https://streak-stats.demolab.com?user=LS-Rathore&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6&sideLabels=94A3B8&dates=94A3B8" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com?user=LS-Rathore&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
 <br/><br/>
 
