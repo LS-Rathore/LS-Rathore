@@ -132,12 +132,6 @@ laxveer:
 <div align="center">
 
 <p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=LS-Rathore&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6&sideLabels=94A3B8&dates=94A3B8" alt="LS-Rathore's GitHub Streak Stats" />
-</p>
-
-<br/>
-
-<p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LS-Rathore&bg_color=0D1117&color=8B5CF6&line=EC4899&point=F472B6&area=true&hide_border=true" alt="Contribution Activity Graph" />
 </p>
 
