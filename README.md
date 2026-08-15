@@ -5,7 +5,7 @@
 
 <!-- Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=B.Tech+Computer+Engineering+Student;Full-Stack+Developer+%E2%80%A2+React+%2B+Node.js;AI+%26+RAG+Systems+Engineer;Building+Scalable+Web+Apps+%26+Intelligent+Agents" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=B.Tech+Computer+Engineering+Student;Full-Stack+MERN+Stack+Developer;React.js+%E2%80%A2+Node.js+%E2%80%A2+Express+%E2%80%A2+MongoDB;Building+Scalable+%26+Responsive+Web+Apps" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,18 +24,18 @@
 
 ### 👨‍💻 About Me
 
-Hey there! 👋 I'm **Laxveer Singh Rathore**, a passionate **Computer Engineering student**, **Full-Stack Developer**, and **AI/RAG Engineer**. 
+Hey there! 👋 I'm **Laxveer Singh Rathore**, a **Computer Engineering student** and passionate **Full-Stack MERN Stack Developer**.
 
-I specialize in crafting high-performance full-stack web applications and intelligent AI-driven systems. My focus lies at the intersection of modern frontend UX, scalable backend architectures, and production-ready Retrieval-Augmented Generation (RAG) models.
+I build end-to-end web applications focused on performance, clean component architecture, and seamless user experiences. I enjoy designing robust REST APIs with **Node.js & Express**, crafting reactive UIs with **React.js**, and structuring efficient **NoSQL & SQL databases**.
 
 ```yaml
 laxveer:
-  role: "Full-Stack & AI Systems Developer"
+  role: "Full-Stack MERN Developer"
   education: "B.Tech in Computer Engineering"
   location: "India"
-  core_stack: ["React.js", "Node.js", "Express", "MongoDB", "PostgreSQL"]
-  ai_focus: ["LangChain", "Google Gemini", "RAG Systems", "Vector DBs"]
-  current_goal: "Building enterprise-grade AI applications and refining backend scalability"
+  core_stack: ["MongoDB", "Express.js", "React.js", "Node.js"]
+  web_focus: ["REST APIs", "Database Design", "Frontend UX", "System Performance"]
+  current_goal: "Building production-grade web applications and mastering backend scalability"
 ```
 
 ---
@@ -47,22 +47,22 @@ laxveer:
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">🌐 Full-Stack Applications</h3>
-<p align="center">End-to-end web software built with <b>React.js, Node.js, Express, MongoDB, and PostgreSQL</b>, featuring secure auth, microservices, and clean UI components.</p>
+<h3 align="center">🌐 Full-Stack Web Applications</h3>
+<p align="center">End-to-end web applications built with <b>React.js, Node.js, Express, MongoDB, and PostgreSQL</b>, featuring authentication, state management, and responsive layouts.</p>
 </td>
 <td width="50%" valign="top">
-<h3 align="center">🤖 AI & RAG Architectures</h3>
-<p align="center">Intelligent agentic systems integrating <b>Google Gemini, LangChain, embeddings, and vector databases</b> for contextual data retrieval and automated workflows.</p>
+<h3 align="center">🎨 Modern Frontend Experiences</h3>
+<p align="center">Interactive, mobile-friendly UIs created with <b>React.js, Next.js, and TailwindCSS</b> prioritizing performance, accessibility, and modern aesthetics.</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 <h3 align="center">⚡ High-Performance REST APIs</h3>
-<p align="center">Scalable backend services engineered with <b>Node.js, Express, and SQL/NoSQL databases</b> adhering to robust API standards, security, and agility.</p>
+<p align="center">Scalable backend services engineered with <b>Node.js & Express</b> adhering to clean architecture, JWT security, and efficient data routing.</p>
 </td>
 <td width="50%" valign="top">
-<h3 align="center">🛠️ Developer-First Products</h3>
-<p align="center">Intuitive software solutions designed with high code readability, optimized database schemas, and modern developer tooling.</p>
+<h3 align="center">🗄️ Database Architecture</h3>
+<p align="center">Optimized data models and queries utilizing <b>MongoDB, PostgreSQL, and MySQL</b> for reliability and seamless data persistence.</p>
 </td>
 </tr>
 </table>
@@ -75,58 +75,53 @@ laxveer:
 
 <div align="center">
 
-#### 💻 Programming Languages
+#### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,py,java,c,cpp&perline=6" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,c&perline=5" alt="Languages" />
 </p>
 
-#### 🎨 Frontend Development
+#### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite&perline=6" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,js,ts&perline=4" alt="Frontend" />
 </p>
 
-#### ⚙️ Backend & Databases
+#### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,prisma&perline=6" alt="Backend & DB" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3" />
+  <br/>
+  <img src="https://img.shields.io/badge/REST_APIs-0055D4?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-#### 🧠 AI, Machine Learning & RAG
+#### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=3" alt="Databases" />
+</p>
+
+#### 🧠 AI & Data
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG_Architecture-8B5CF6?style=for-the-badge&logo=cpu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector_Search-EC4899?style=for-the-badge&logo=search&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge&logo=google-gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-EC4899?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MongoDB_Atlas_Vector_Search-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-#### 🛠️ Dev Tools & Infrastructure
+#### 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render&perline=6" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render,supabase&perline=7" />
+  <br/>
+  <img src="https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-7C3AED?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
-</div>
-
----
-
-### 💼 Experience
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-
-#### 🏢 Web Development Intern — **Zaalima Development**
-📅 *January 2026 – April 2026* &nbsp;|&nbsp; 📍 *Remote*
-
-- 🔹 Engineered and integrated RESTful APIs using **Node.js, Express.js, and MongoDB**.
-- 🔹 Built modular, high-reproducibility **React.js** UI components for seamless user interaction.
-- 🔹 Collaborated in a 4-member agile engineering team managing sprint goals, code reviews, and Git workflows.
-- 🔹 Delivered key end-to-end MERN stack features spanning database schema design to frontend state management.
-
-</td>
-</tr>
-</table>
+#### 🧩 Core Concepts
+<p>
+  <img src="https://img.shields.io/badge/Full--Stack_Development-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Problem_Solving-06B6D4?style=flat-square" />
+  <img src="https://img.shields.io/badge/API_Development-EC4899?style=flat-square" />
+  <img src="https://img.shields.io/badge/Version_Control-10B981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Authentication-F59E0B?style=flat-square" />
+</p>
 
 </div>
 
@@ -181,7 +176,7 @@ laxveer:
 
 <div align="center">
 
-Got an exciting project, AI challenge, or full-stack opportunity? Let me know!
+Got an exciting web app project or full-stack opportunity? Let's connect!
 
 <a href="https://github.com/LS-Rathore"><img src="https://img.shields.io/badge/GitHub-LS--Rathore-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/lakshveer-singh-rathore-a289b8358/"><img src="https://img.shields.io/badge/LinkedIn-Laxveer%20Singh%20Rathore-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -190,7 +185,7 @@ Got an exciting project, AI challenge, or full-stack opportunity? Let me know!
 <br/>
 
 <p align="center">
-<i>"Always learning, building, and pushing the boundaries of AI & Full-Stack Web Development."</i>
+<i>"Always learning, building, and pushing the boundaries of Full-Stack Web Development."</i>
 </p>
 
 <!-- Footer Banner -->
