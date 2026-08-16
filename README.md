@@ -22,9 +22,9 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
-Hey there! 👋 I'm **Laxveer Singh Rathore**, a **Computer Engineering student** and passionate **Full-Stack MERN Stack Developer**.
+Hey there!  I'm **Laxveer Singh Rathore**, a **Computer Engineering student** and passionate **Full-Stack MERN Stack Developer**.
 
 I build end-to-end web applications focused on performance, clean component architecture, and seamless user experiences. I enjoy designing robust REST APIs with **Node.js & Express**, crafting reactive UIs with **React.js**, and structuring efficient **NoSQL & SQL databases**.
 
@@ -40,7 +40,7 @@ laxveer:
 
 ---
 
-### 🚀 What I Build
+###  What I Build
 
 <div align="center">
 
@@ -71,16 +71,16 @@ laxveer:
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+###  Tech Stack & Ecosystem
 
 <div align="center">
 
-#### 💻 Languages
+####  Languages
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,py,java,c&perline=5" alt="Languages" />
 </p>
 
-#### 🎨 Frontend
+####  Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,tailwind,js,ts&perline=4" alt="Frontend" />
 </p>
@@ -93,12 +93,12 @@ laxveer:
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-#### 🗄️ Databases
+####  Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&perline=3" alt="Databases" />
 </p>
 
-#### 🧠 AI & Data
+####  AI & Data
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge&logo=google-gemini&logoColor=white" />
@@ -114,7 +114,7 @@ laxveer:
   <img src="https://img.shields.io/badge/Antigravity-7C3AED?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
-#### 🧩 Core Concepts
+####  Core Concepts
 <p>
   <img src="https://img.shields.io/badge/Full--Stack_Development-8B5CF6?style=flat-square" />
   <img src="https://img.shields.io/badge/Problem_Solving-06B6D4?style=flat-square" />
@@ -139,7 +139,7 @@ laxveer:
 
 ---
 
-### 🐍 Contribution Grid Animation
+### Contributions
 
 <div align="center">
 
@@ -153,7 +153,7 @@ laxveer:
 
 ---
 
-### 🤝 Connect & Collaborate
+###  Connect & Collaborate
 
 <div align="center">
 
